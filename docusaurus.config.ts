@@ -22,8 +22,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "chainforge", // Usually your GitHub org/user name.
-  projectName: "chainforge", // Usually your repo name.
+  organizationName: "tranquanghuy7198",
+  projectName: "chainforge-doc",
 
   onBrokenLinks: "throw",
 
