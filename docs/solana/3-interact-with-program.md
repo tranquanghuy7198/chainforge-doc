@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Interact with Solana Programs
 
-## Adding Your Program
+## Add Your Program
 
 To begin working with your Solana program in **_ChainForge_**, choose one of the following methods:
 

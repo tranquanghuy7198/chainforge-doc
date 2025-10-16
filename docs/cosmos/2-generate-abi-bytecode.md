@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Generate ABI and Bytecode
+# Generate CosmWasm ABI and Bytecode
 
 ## Generate JSON Schema (ABI)
 

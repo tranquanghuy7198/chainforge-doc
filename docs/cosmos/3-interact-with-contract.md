@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Interact with CosmWasm Contract
 
-## Adding Your Contract
+## Add Your Contract
 
 To begin working with your CosmWasm contract in **_ChainForge_**, choose one of the following methods:
 
