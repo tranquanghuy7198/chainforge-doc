@@ -88,7 +88,7 @@ const config: Config = {
           label: "Tutorial",
         },
         {
-          href: "https://github.com/facebook/docusaurus",
+          href: "https://github.com/tranquanghuy7198/chainforge-doc",
           label: "GitHub",
           position: "right",
         },
