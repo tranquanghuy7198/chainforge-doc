@@ -85,7 +85,7 @@ const config: Config = {
           type: "docSidebar",
           sidebarId: "tutorialSidebar",
           position: "left",
-          label: "Tutorial",
+          label: "Guide",
         },
         {
           href: "https://github.com/tranquanghuy7198/chainforge-doc",
