@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkchainforge_doc=globalThis.webpackChunkchainforge_doc||[]).push([[647],{7121:(e,r,a)=>{a.r(r),a.d(r,{default:()=>i});a(6540);var c=a(4164),s=a(7559),o=a(5500),h=a(2831),n=a(1656),u=a(4848);function i(e){return(0,u.jsx)(o.e3,{className:(0,c.A)(s.G.wrapper.docsPages),children:(0,u.jsx)(n.A,{children:(0,h.v)(e.route.routes)})})}}}]);
