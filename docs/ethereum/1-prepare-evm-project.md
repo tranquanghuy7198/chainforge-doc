@@ -27,7 +27,7 @@ npm install --save-dev hardhat
 ```
 
 :::note
-This documentation focuses on Hardhat. If you use other frameworks like Truffle, please follow their documentations.
+This documentation focuses on Hardhat. If you use other frameworks like Foundry or Truffle, please follow their documentations.
 :::
 
 ## Initialize Hardhat Project
