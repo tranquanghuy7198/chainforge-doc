@@ -23,6 +23,20 @@ If you only need to interact with an existing EVM contract, the EVM ABI is suffi
 
 Navigate to [Contract Explorer](https://tranquanghuy7198.github.io/chainforge/#/contracts) to register your contract.
 
+### Upgradeable Contracts
+
+If your smart contract follows the [OpenZeppelin Upgradeable Proxy Pattern](https://docs.openzeppelin.com/upgrades-plugins/proxies), your deployment consists of two separate contracts:
+
+- **Proxy contract** — the address that users and applications interact with.
+- **Implementation contract** — the contract that contains the actual logic and functions.
+
+When interacting with an upgradeable contract in **_ChainForge_**, ensure that you:
+
+- Use the **ABI of the implementation contract**, since it defines the available functions and events.
+- Use the **address of the proxy contract**, since all external calls are routed through the proxy to the current implementation.
+
+This approach aligns with the OpenZeppelin standard, where the proxy delegates all function calls to the implementation while preserving your contract’s storage and state.
+
 ## Interaction
 
 You can quickly interact with your EVM contracts by providing necessary parameters:
