@@ -34,7 +34,7 @@ docker run --rm -v "$(pwd)":/code \
 
 This generates an optimized `.wasm` file in the `artifacts/` directory. This file contains the bytecode of your CosmWasm smart contract. It is necessary when you want to deploy your CosmWasm contract to blockchains.
 
-:::warning
+:::warning Use correct optimizer
 For Intel chip, please use `cosmwasm/optimizer` instead. It is recommended to always check the latest optimizer versions at [Docker Hub](https://hub.docker.com/r/cosmwasm/optimizer-arm64).
 :::
 

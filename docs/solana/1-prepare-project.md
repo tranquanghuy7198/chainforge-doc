@@ -44,7 +44,7 @@ solana airdrop 2
 
 ## Install Anchor
 
-:::info
+:::info Anchor support
 **_ChainForge_** only supports Solana Anchor now. Native Solana programs are not supported.
 :::
 
