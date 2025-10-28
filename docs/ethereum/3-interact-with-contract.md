@@ -43,3 +43,7 @@ You can quickly interact with your EVM contracts by providing necessary paramete
 
 - **Complex parameters** (arrays, custom structs, etc.) must be provided in JSON format
 - **Native parameters** (addresses, numbers, strings, etc.) can be provided as plain text
+
+:::tip Generate default JSON format
+For complex parameters, you can right-click the input field and select **Generate Default JSON** to automatically populate a default JSON structure based on the contract’s ABI. This feature allows you to quickly generate valid parameter templates without manually writing the full JSON.
+:::
