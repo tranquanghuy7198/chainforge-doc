@@ -45,7 +45,7 @@ solana airdrop 2
 ## Install Anchor
 
 :::info Anchor support
-**_ChainForge_** only supports Solana Anchor now. Native Solana programs are not supported.
+**_KontraxHub_** only supports Solana Anchor now. Native Solana programs are not supported.
 :::
 
 Using AVM (Anchor Version Manager):

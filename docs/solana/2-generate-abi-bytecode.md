@@ -50,7 +50,7 @@ target/idl/my_project.json
 :::warning Use latest IDL format
 Solana v0.30.0 (and later) produces a new IDL format. For detailed information, visit [Anchor v0.30.0 Release Notes](https://github.com/acheroncrypto/anchor/blob/v0.30.0/docs/src/pages/release-notes/0.30.0.md)
 
-**_ChainForge_** only supports the latest format of IDL. For legacy IDLs, please use `anchor idl convert` CLI to convert to the latest format. Please note that in certain situations, this conversion cannot provide enough/correct IDL details.
+**_KontraxHub_** only supports the latest format of IDL. For legacy IDLs, please use `anchor idl convert` CLI to convert to the latest format. Please note that in certain situations, this conversion cannot provide enough/correct IDL details.
 :::
 
 ## Program ID

@@ -6,19 +6,19 @@ sidebar_position: 3
 
 ## Add Your Package
 
-To begin working with your Sui package in **_ChainForge_**, choose one of the following methods:
+To begin working with your Sui package in **_KontraxHub_**, choose one of the following methods:
 
 ### Method 1: Deploy and Interact
 
 If you intend to deploy your Sui package to the blockchain, you must provide Sui bytecode of the package.
 
-Navigate to [Contract Templates](https://tranquanghuy7198.github.io/chainforge/#/contract-templates) to add this.
+Navigate to [Contract Templates](https://tranquanghuy7198.github.io/kontraxhub/#/contract-templates) to add this.
 
 ### Method 2: Interact Only
 
 If you only need to interact with an existing Sui package, the Sui package ID and (optional) package object IDs are required.
 
-Navigate to [Contract Explorer](https://tranquanghuy7198.github.io/chainforge/#/contracts) to register your package.
+Navigate to [Contract Explorer](https://tranquanghuy7198.github.io/kontraxhub/#/contracts) to register your package.
 
 ## Interaction
 

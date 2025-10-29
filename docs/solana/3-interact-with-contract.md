@@ -6,7 +6,7 @@ sidebar_position: 3
 
 ## Add Your Program
 
-To begin working with your Solana program in **_ChainForge_**, choose one of the following methods:
+To begin working with your Solana program in **_KontraxHub_**, choose one of the following methods:
 
 ### Method 1: Deploy and Interact
 
@@ -15,17 +15,17 @@ If you intend to deploy your Solana program to the blockchain, you must provide:
 - **Solana IDL** (JSON format)
 - **Solana bytecode** (`.so` file)
 
-Navigate to [Contract Templates](https://tranquanghuy7198.github.io/chainforge/#/contract-templates) to add these artifacts.
+Navigate to [Contract Templates](https://tranquanghuy7198.github.io/kontraxhub/#/contract-templates) to add these artifacts.
 
 ### Method 2: Interact Only
 
 If you only need to interact with an existing Solana program, the Solana IDL is sufficient.
 
-Navigate to [Contract Explorer](https://tranquanghuy7198.github.io/chainforge/#/contracts) to register your program.
+Navigate to [Contract Explorer](https://tranquanghuy7198.github.io/kontraxhub/#/contracts) to register your program.
 
 ## Interaction Modes
 
-**_ChainForge_** provides two interaction modes to suit different use cases:
+**_KontraxHub_** provides two interaction modes to suit different use cases:
 
 ### Quick Mode
 

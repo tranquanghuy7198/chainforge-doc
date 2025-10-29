@@ -6,7 +6,7 @@ sidebar_position: 3
 
 ## Add Your Contract
 
-To begin working with your EVM contract in **_ChainForge_**, choose one of the following methods:
+To begin working with your EVM contract in **_KontraxHub_**, choose one of the following methods:
 
 ### Method 1: Deploy and Interact
 
@@ -15,13 +15,13 @@ If you intend to deploy your EVM contract to the blockchain, you must provide:
 - **EVM ABI** (JSON array format)
 - **EVM bytecode** (hexa data)
 
-Navigate to [Contract Templates](https://tranquanghuy7198.github.io/chainforge/#/contract-templates) to add these artifacts.
+Navigate to [Contract Templates](https://tranquanghuy7198.github.io/kontraxhub/#/contract-templates) to add these artifacts.
 
 ### Method 2: Interact Only
 
 If you only need to interact with an existing EVM contract, the EVM ABI is sufficient.
 
-Navigate to [Contract Explorer](https://tranquanghuy7198.github.io/chainforge/#/contracts) to register your contract.
+Navigate to [Contract Explorer](https://tranquanghuy7198.github.io/kontraxhub/#/contracts) to register your contract.
 
 ### Upgradeable Contracts
 
@@ -30,7 +30,7 @@ If your smart contract follows the [OpenZeppelin Upgradeable Proxy Pattern](http
 - **Proxy contract** — the address that users and applications interact with.
 - **Implementation contract** — the contract that contains the actual logic and functions.
 
-When interacting with an upgradeable contract in **_ChainForge_**, ensure that you:
+When interacting with an upgradeable contract in **_KontraxHub_**, ensure that you:
 
 - Use the **ABI of the implementation contract**, since it defines the available functions and events.
 - Use the **address of the proxy contract**, since all external calls are routed through the proxy to the current implementation.

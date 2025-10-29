@@ -18,12 +18,12 @@ const config: Config = {
   url: "https://tranquanghuy7198.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/chainforge-doc/",
+  baseUrl: "/kontraxhub-doc/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "tranquanghuy7198",
-  projectName: "chainforge-doc",
+  projectName: "kontraxhub-doc",
   deploymentBranch: "gh-pages",
   trailingSlash: false,
 
@@ -46,7 +46,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/tranquanghuy7198/chainforge-doc/tree/main/packages/create-docusaurus/templates/shared/",
+            "https://github.com/tranquanghuy7198/kontraxhub-doc/tree/main/packages/create-docusaurus/templates/shared/",
         },
         blog: {
           showReadingTime: true,
@@ -57,7 +57,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/tranquanghuy7198/chainforge-doc/tree/main/packages/create-docusaurus/templates/shared/",
+            "https://github.com/tranquanghuy7198/kontraxhub-doc/tree/main/packages/create-docusaurus/templates/shared/",
           // Useful options to enforce blogging best practices
           onInlineTags: "warn",
           onInlineAuthors: "warn",
@@ -77,7 +77,7 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: "ChainForge",
+      title: "KontraxHub",
       logo: {
         alt: "My Site Logo",
         src: "img/logo.svg",
@@ -90,7 +90,7 @@ const config: Config = {
           label: "Guide",
         },
         {
-          href: "https://github.com/tranquanghuy7198/chainforge-doc",
+          href: "https://github.com/tranquanghuy7198/kontraxhub-doc",
           label: "GitHub",
           position: "right",
         },
